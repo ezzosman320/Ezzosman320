@@ -1,6 +1,6 @@
 # Hi, I'm Ezzaldien Osman 👋
 
-**Junior Network Engineer** based in Cairo, Egypt, focused on Cisco SD-WAN, routing and switching, and network automation, and AWS cloud
+**Junior Network Engineer** based in Cairo, Egypt, focused on Cisco SD-WAN, routing and switching, network automation, and AWS cloud
 
 ## What I work on
 - Cisco SD-WAN labs in EVE-NG (vManage, vSmart, vBond, vEdge)
