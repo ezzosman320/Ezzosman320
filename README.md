@@ -18,4 +18,4 @@
 AWS (Solutions Architect Associate)
 
 ## Contact
-[LinkedIn](https://linkedin.com/in/ezzaldeen-osman-mohamed-3b3a2a259) | Ezz.osman320@gmail.com
+[LinkedIn](https://linkedin.com/in/ezzaldeen-osman-mohamed) | Ezz.osman320@gmail.com
