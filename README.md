@@ -10,9 +10,9 @@
 
 ## Featured projects
 - [Cisco SD-WAN Enterprise Lab](link-to-repo): 5 vEdges, OMP, OSPF, BGP, HSRP/VRRP
-- [Network Automation with Ansible & Python](link-to-repo): automating router configuration and checks on an EVE-NG lab
 - [Cowrie + ELK Honeypot](link-to-repo): attack capture and log analysis
 - [Zabbix SNMP Monitoring](link-to-repo): monitoring on a Raspberry Pi
+- [Network Automation with Ansible](link-to-repo): automating router configuration and checks on an EVE-NG lab
 
 ## Currently learning
 AWS (Solutions Architect Associate)
